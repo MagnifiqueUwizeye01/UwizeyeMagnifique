@@ -11,7 +11,7 @@
   <h1> Hello, I'm Magnifique UWIZEYE </h1>  
 </div>  
    
-<div align="center"> 
+<div align="center">  
  
 ## 💻 Full-Stack Software Engineer | Problem Solver | Innovation Driver  
  
