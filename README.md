@@ -13,7 +13,7 @@
         
 <div align="center">  
  
-## 💻 Full-Stack Software Engineer | Problem Solver | Innovation Driver   
+##  Full-Stack Software Engineer | Problem Solver | Innovation Driver   
  
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Java+%26+Spring+Specialist;React+%26+Node.js+Expert;Data+Analytics+Enthusiast;Problem+Solver+%26+Innovator" alt="Typing SVG" />
 
@@ -24,7 +24,7 @@
  
 ---
  
-## 🎯 Professional Overview
+##  Professional Overview
 
 I'm a passionate **Full-Stack Software Engineer** and **IT Professional** dedicated to architecting scalable, secure, and innovative software solutions. With comprehensive expertise spanning both front-end and back-end technologies, I specialize in building enterprise-grade applications that solve real-world challenges and drive digital transformation.
 
@@ -32,7 +32,7 @@ I'm a passionate **Full-Stack Software Engineer** and **IT Professional** dedica
 <tr>
 <td width="50%">
 
-### 🎓 Academic Excellence
+###  Academic Excellence
 - **Information Technology Student** specializing in Software Engineering & Data Analytics
 - Advancing expertise in cutting-edge technologies and industry best practices
 - Strong foundation in computer science fundamentals and software architecture
@@ -40,7 +40,7 @@ I'm a passionate **Full-Stack Software Engineer** and **IT Professional** dedica
 </td>
 <td width="50%"> 
 
-### 💼 Professional Focus
+###  Professional Focus
 - Building **high-impact, scalable applications** using modern frameworks
 - Expert in enterprise-level software architecture and database optimization
 - Specialized in cloud-native solutions and microservices architecture
@@ -50,7 +50,7 @@ I'm a passionate **Full-Stack Software Engineer** and **IT Professional** dedica
 <tr>
 <td width="50%">
 
-### 🌍 Mission & Vision
+###  Mission & Vision
 - Leveraging technology to **transform industries in Rwanda and globally**
 - Committed to creating solutions that drive economic growth and social impact 
 - Passionate about using technology for community development 
@@ -58,7 +58,7 @@ I'm a passionate **Full-Stack Software Engineer** and **IT Professional** dedica
 </td>
 <td width="50%"> 
 
-### 🔍 Core Values
+###  Core Values
 - **Continuous learning** and professional development 
 - Problem-solving excellence and innovative thinking
 - Collaborative innovation and knowledge sharing
@@ -74,19 +74,19 @@ I'm a passionate **Full-Stack Software Engineer** and **IT Professional** dedica
 
 As a dedicated **Full-Stack Software Engineer**, I bridge the gap between complex technical challenges and elegant, user-centric solutions. My journey in technology is driven by an insatiable curiosity and a commitment to excellence that spans across multiple domains:
 
-🎯 **Architecture & Design** - Crafting robust, scalable system architectures that anticipate future growth and handle complex business logic with elegance and efficiency
+ **Architecture & Design** - Crafting robust, scalable system architectures that anticipate future growth and handle complex business logic with elegance and efficiency
 
 🔧 **Full-Stack Mastery** - Seamlessly navigating both front-end user experiences and back-end system optimization, ensuring cohesive and performant applications
 
-📊 **Data-Driven Solutions** - Transforming raw data into actionable insights through advanced analytics, visualization, and machine learning implementations
+ **Data-Driven Solutions** - Transforming raw data into actionable insights through advanced analytics, visualization, and machine learning implementations
 
-🌱 **Innovation Leadership** - Staying at the forefront of emerging technologies, implementing best practices, and mentoring others in the development community
+ **Innovation Leadership** - Staying at the forefront of emerging technologies, implementing best practices, and mentoring others in the development community
 
-🤝 **Collaborative Excellence** - Building strong partnerships with cross-functional teams, translating business requirements into technical solutions that deliver measurable impact
+ **Collaborative Excellence** - Building strong partnerships with cross-functional teams, translating business requirements into technical solutions that deliver measurable impact
 
 --- 
 
-## 🛠️ Technology Mastery
+##  Technology Mastery
 
 ### Programming Languages
 <div align="center">
@@ -153,18 +153,18 @@ As a dedicated **Full-Stack Software Engineer**, I bridge the gap between comple
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
-### 🩸 Blood Donation Management System
+###  Blood Donation Management System
 
 **Enterprise-grade healthcare solution** featuring distributed architecture with Java RMI, secure OTP authentication, and real-time donor management. Includes automated PDF reporting and comprehensive audit trails.
 
 **Key Features:**
-- 🔐 Secure OTP-based authentication system
-- 📊 Real-time donor and inventory management
-- 📄 Automated PDF report generation
-- 🏥 Multi-hospital network integration
-- 📈 Advanced analytics and reporting dashboard
+-  Secure OTP-based authentication system
+-  Real-time donor and inventory management
+-  Automated PDF report generation
+-  Multi-hospital network integration
+-  Advanced analytics and reporting dashboard
 
 ![Java](https://img.shields.io/badge/Java-orange)
 ![RMI](https://img.shields.io/badge/RMI-blue)
@@ -173,15 +173,15 @@ As a dedicated **Full-Stack Software Engineer**, I bridge the gap between comple
 
 ---
 
-### 📊 Business Intelligence Dashboard
+###  Business Intelligence Dashboard
 
 **Advanced analytics platform** processing large datasets with interactive visualizations. Features real-time data processing, predictive analytics, and comprehensive business intelligence reporting.
 
 **Key Features:**
-- 📈 Real-time data processing and visualization
-- 🤖 Predictive analytics and machine learning integration
-- 📊 Interactive dashboards with drill-down capabilities
-- 🔄 Automated data pipeline and ETL processes
+-  Real-time data processing and visualization
+-  Predictive analytics and machine learning integration
+-  Interactive dashboards with drill-down capabilities
+-  Automated data pipeline and ETL processes
 
 ![Python](https://img.shields.io/badge/Python-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-darkblue)
@@ -190,15 +190,15 @@ As a dedicated **Full-Stack Software Engineer**, I bridge the gap between comple
 
 ---
 
-### 🛒 E-Commerce Platform
+###  E-Commerce Platform
 
 **Full-stack e-commerce solution** with React frontend, Node.js backend, and integrated payment systems. Features include inventory management, order tracking, and advanced search functionality.
 
 **Key Features:**
-- 🛍️ Complete shopping cart and checkout system
-- 💳 Integrated payment processing (Stripe, PayPal)
-- 📦 Advanced inventory and order management
-- 🔍 Intelligent search and filtering system
+-  Complete shopping cart and checkout system
+-  Integrated payment processing (Stripe, PayPal)
+-  Advanced inventory and order management
+-  Intelligent search and filtering system
 
 ![React](https://img.shields.io/badge/React-61DBFB)
 ![Node.js](https://img.shields.io/badge/Node.js-green)
@@ -207,18 +207,18 @@ As a dedicated **Full-Stack Software Engineer**, I bridge the gap between comple
 
 ---
 
-## 📈 GitHub Analytics & Metrics
+##  GitHub Analytics & Metrics
 
 <p align="center">
 
-### 📊 Contribution Statistics  
+###  Contribution Statistics  
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=MagnifiqueUwizeye01&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagnifiqueUwizeye01&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 
-### 📈 Contribution Graph
+###  Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MagnifiqueUwizeye01&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </p>
@@ -228,17 +228,17 @@ As a dedicated **Full-Stack Software Engineer**, I bridge the gap between comple
 
 ---
 
-## 🌟 Professional Achievements
+##  Professional Achievements
 
 <div align="center">
 
-| 🚀 Projects Completed | 💼 Years Experience | 🛠️ Technologies Mastered | 📊 Success Rate |
+|  Projects Completed |  Years Experience |  Technologies Mastered |  Success Rate |
 |:---------------------:|:------------------:|:------------------------:|:--------------:|
 | **5+** | **1+** | **7+** | **80%** |
 
 </div>
 
-### 🎯 Key Performance Indicators
+###  Key Performance Indicators
 
 - **Code Quality Score**: 95%+ (SonarQube, CodeClimate)
 - **Test Coverage**: 85%+ across all projects
@@ -249,7 +249,7 @@ As a dedicated **Full-Stack Software Engineer**, I bridge the gap between comple
 
 ---
 
-## 🌍 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
